@@ -1,0 +1,30 @@
+.Description{
+  max-width: 700px;
+  margin-right: 40px;
+
+}
+.MyImage{
+  max-width: 200px;
+  width: 100px;
+}
+.me{
+   display: flex;
+}
+.title{
+  background-color: rosybrown;
+}
+.header{
+  text-align: center;
+  background-color: #33bebe;
+}
+.main{
+  padding: 40px;
+  padding-top: 0px;
+}
+*{
+  /*outline: 1px solid red !important;*/
+   -webkit-box-sizing: border-box;
+   -moz-box-sizing: border-box;
+   -ms-box-sizing: border-box;
+   box-sizing: border-box;
+}

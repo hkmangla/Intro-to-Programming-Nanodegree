@@ -1,0 +1,102 @@
+1.Front End Programming
+
+
+ Front end programming is a programming in which programmer cares the interface or design of
+ website. It provide user to interface with API(Application Programming Interface). They also focussed on increase website loading speed.
+ What are the different types of Front-End developers?
+
+There really isn’t a clear distinction between different types of Front-End developers. Some might happen to do more of one kind of task than the other but all Front-End developers need the same general body of skills and knowledge.
+Design focused developers create sites that look and feel intuitive to the user. They spend most of their time writing HTML and CSS.
+Application focused developers use frameworks to create logic that powers interesting interactions user experience on websites. These developers most often use JavaScript.
+What are the essential Front-End programming skills?
+
+Empathy - the ability to see the thing you’re creating from your users’ perspectives. Remember, you aren’t developing a website for yourself - you’re creating it for other people.
+Breaking down problems - Breaking problems into manageable chunks is an essential problem solving skill. You need to think about communication, design and architecting an application. In order to do all of these tasks, you need to be able to step back and plan out how you’ll turn a seemingly monolithic task into logical and reasonable chunks.
+What are important concepts Front-End programmers need to know:
+
+Front-End developers focus on parts of the web that users see and interact with.
+Front-End developers access and present data from multiple sources on the internet through Application Program Interfaces (APIs).
+A Front-End developer is someone who builds the interface on applications which run on a variety of devices. These interfaces should responsively transition from mobile to tablet to desktop.
+Every web page and web app is created with HTML, CSS, and JavaScript. All of the images, buttons, transitions, animations, drop-down menus, contact forms, and styling elements are all controllable using these technologies.
+What are some Front-End Frameworks Front-End developers use?
+
+Applications are built on top of frameworks like Angular.js, Ember.js, Backbone.js, Knockout.js, React.js and Polymer.js. There are similarities and differences, however if you can pick up one, you can pick up all of them.
+Front-End developers use frameworks like Angular.js and Ember.js to organize data using industry-standard design patterns which help synchronize user actions and data with a web server.
+How will I know if I'm ready for a path in Front-End programming?
+
+If you've completed the previous lessons in this Nanodegree Program, you already have an understanding of HTML syntax, the structure of HTML, CSS and Python. This will enable you to pick up Javascript libraries like JQuery and to use CSS framworks like Bootstrap. While Javascript and Python are different, they share similarities as well: functions, variables, data types, loops, and conditional statements find their way in both languages.
+
+
+2.Back End Programmer
+What are the different types of backend programmers?
+
+Back-end programmers are differentiated by the languages and technology stacks they use. Back-end programmers can be generalists or they can specialize in areas like devops/infrastructure, internal tooling, api design, and database administration.
+What are essential Back-End programming skills?
+
+Software architecture- The ability to translate project requirements into technical specifications
+Software deployment- The ability to make a software program ready and available for public use on the web.
+What are the differences and similarities of Back-End programming languages?
+
+Considering the broad range of tasks that a Back-End programmer can perform, it makes sense that there will also be a large range of programming languages and software that can be employed to perform these tasks. These can operate on a variety of levels, and it can be useful for a programmer to be comfortable with different tools to accomplish their tasks. Different languages are typically associated with different stacks, although some components are interchangeable between stacks. For example Ruby is closely associated with the Rails framework and ActiveRecord Object Relational Mapping (ORM), while Python has several competing web frameworks and ORMs. The technologies used by backend programmers tend to stick around longer than those used on the frontend since rearchitecting an application is a major undertaking so things move more slowly.
+Why might a backend language be more suitable for certain projects?
+
+Languages differ in how quickly a programmer can produce a working product but ease of development generally comes at the cost of performance and maintainability.Languages like Java and Go are popular among large teams and large projects because they enforce code organization and structure. Languages like Python, Ruby and Javascript allow rapid development and easy prototyping but they don’t necessarily scale to heavy loads as easily. This implies cultural differences between the communities around different languages, and in the teams that use the different languages. Java in particular is used at larger enterprises. PHP tends to be seen in legacy applications.
+What are the important concepts Back-End programmers need to know:
+
+The concept of a stack: The ‘stack’ refers to the combination of technologies a developer uses to implement a particular project. One of the first major stacks was the LAMP stack (Linux, Apache, MySQL, and PHP). Over time more stacks have emerged that use different components. For example nginx is a popular alternative to Apache for the webserver component of the stack. There are many SQL and nonSQL alternatives to MySQL in use today, and there are even more choices of programming language and framework. Today the stack might also include the frontend technologies used by an application.
+The concept of full stack: A programmer who is competent in everything from Front-End to Back-End programming including all elements of the stack. In practice very few people are truly experts in every component of a large application. It’s reasonable for a single programmer to be familiar with the entire stack, and to implement small applications and prototypes single handedly. A full stack programmer should be able to research the topics they need to work with any part of an application despite not being a daily user of any one piece of the stack.
+How will I know if I'm ready for a path in Back-End programming?
+
+If you've completed the previous lessons in this Nanodegree Program, you already have an understanding of Python and through the movie website project you learned how Python (the Back-End) and HTML/CSS (the Front-End) interact. Your next step is to learn how to store information in databases.
+
+
+3.Mobile Programming
+
+What are the different types of mobile programmers?
+
+The two main platforms that mobile programmers work on are iOS and Android. There are other mobile and wearable platforms besides these too, but as far as number of devices owned by consumers goes, these are the main ones.
+What are essential mobile programming skills?
+
+Mobile programmers need a solid understanding of object oriented programming and networking (such as working with online APIs).
+In the iOS world, iOS programmers need an understanding of a programming paradigm called Model View Controller (MVC).
+What are the differences and similarities of mobile programming languages?
+
+In iOS programming, there are only two languages available for making native apps: Swift and Objective C. The most used language for existing apps is Objective C. However, that is rapidly changing as Apple introduced Swift, a newer modern language, in the summer of 2014. Now all of Apple’s Worldwide Developers Conference (WWDC) presentations are done in Swift. At Udacity, our recommendation is to learn to program iOS apps in Swift, and if desired become familiar with Objective C later.
+For Android programming, Java is the official language used to develop Android apps. It is possible to develop Android apps with C and C++ using the Android Native Development Kit (NDK) but Google encourages Java for Android development.. In addition, XML is used to develop the visual components of Android apps.
+What are important concepts mobile programmers need to know:
+
+How to access and use data through networking- Mobile programmers often need to access or use data that does not reside on the mobile device. This may look like fetching data from a server, Hypertext Transfer Protocol (HTTP), parsing JSON data, calling APIs methods and saving this data in local databases. In other words, networking! If you take a look at the top 10 apps at any time, chances are that each one of them has some sort of networking functionality, or depends entirely on an active network connection.
+Standards for Design Patterns- Phones, tablets, and wearables have become the the vehicle for intuitive user experiences. Learning the design patterns taught in Apple’s and Google’s documentation is of high importance. If an app is confusing, chances are that the user will not give it the time you expect.
+What kinds of tools do mobile programmers use?
+
+For iOS programming, the only integrated development environment (IDE) used for native apps is called Xcode, which is only available on Apple computers. It comes with an extremely fast simulator which simulates all iOS devices released in the last 4 or 5 years. It is also used for watchOS and tvOS devices as well. There are countless tools that are available in Xcode to simulate certain situations a user may experience, and to diagnose and monitor device performance.
+Android Studio is the official IDE for developing Android applications. It is available to be used on Windows and Macs. The Android Studio has similar features, including performance monitoring tools, support for building Android Wear apps, tools to catch version compatibility problems. In addition, there is built-in support for using the Google Cloud Platform and integration with Google Cloud Messaging.
+How will I know if I'm ready for a path in Mobile programming?
+
+If you've completed the previous lessons in this Nanodegree Program, you’ve learned how a graphical interface (HTML/CSS) connects with actual code (Python). Mobile development is similar because the graphical interface (XML) connects with the back end logic (written in Java for Android, Swift for iOS). While the coding language is new, the paradigms are the same -- Java and Swift have functions, variables, data types, loops, conditional statements, and classes like within the Python programming language.
+
+
+
+4. Data Analyst
+
+Data analysis is multidisciplinary in nature, and different analysts may focus on different aspects of the analysis process. In a data analysis project, data must first be gathered and wrangled into a form that makes it easy to work with. Collected data is then explored to understand the structure and the relationship between features of the data. With this information in hand, data analysts can proceed with data modeling. This process involves formally describing the patterns and trends in data so as to explain the observations or to build functions for predicting future outcomes. Finally, we will want to summarize our findings in some way. This often takes the form of visualizations that allow a broader audience to understand the obtained conclusions.
+The steps that are performed in each step of the process are linked to other parts. Even if an analyst has a focus on one area of the data analysis, it is useful to keep in mind how the other steps work in order to inform their own procedures; data analysis is not a completely linear process. We may find things in later steps that require us to take a look back at what we performed earlier on, to refine what we did before. Having a broad foundation in all aspects of data analysis is a valuable trait for a successful analyst, as it provides a big-picture view of the full process of a project.
+What are essential data analyst skills?
+
+Mathematics and statistics are valuable components of a data analyst’s skillset. In order to justify conclusions drawn from the data, a data analyst needs to select the proper statistical tests to perform and understand how to interpret the results. Math and statistics knowledge are also useful for understanding technical aspects of models that are employed, in case the analyst wants to develop new or alternate techniques to go beyond what is built into the software or languages they use.
+Data analysts should be comfortable with programming. While there are some software packages out there where analyses can be performed without knowing programming, it is inevitable that a data analyst will need to do something that cannot be performed “out of the box.” The ability to program provides the flexibility to use a wider variety of tools and obtain a greater range of customized effects in the way that a person explores and understands the data. Programming can play a big part in every part of the data analysis process, from data wrangling to exploration and mathematical modeling. Even the creation of visualizations can require programming experience, such as the creation of customized, interactive visualizations.
+Data analysts should have a sense of curiosity. A good data analyst will be able to ask questions of their data such that they generate a logical flow in their analysis. If an oddity is detected (e.g. missing data, outliers, unexpected trends), then steps should be taken to understand the oddity and try to resolve it. Programming languages data analysts use:
+What are the differences and similarities of data analysis languages?
+
+It would be useful for an analyst to be comfortable with different tools to accomplish their tasks. Even programs without much flexibility can be useful; even a simple spreadsheet program can have its place for quickly checking the structure of data. However, at some point, a standalone programming language will be desired to flexibly deal with data analysis tasks. In the Data Analyst Nanodegree program at Udacity, we focus on two languages in particular, R and Python.
+Why would one analysis tool or programming language be more suitable for one project over another?
+
+R is a language that is built for statistics. It is supported by a very broad number of packages that add to the base functionality of the language, some of which are written for very specialized tasks. It is very easy to create good-looking visualizations to hasten exploration of the data, using packages like ggplot2. Packages like dplyr and tidyr are useful for reshaping data. On the other hand, R is fairly specialized in its focus, and it is much harder to use it for more general analysis tasks. In particular, when it comes to data wrangling (which can take up a majority of a data analyst’s time), R can be difficult to work with. Since R is open source and used by many people for statistical analysis, there is a large online community of support.
+Python is a general programming language that is up and coming in the data analysis world. The breadth of data analysis packages does not compare to the world of modules available in R, though packages like scikit-learn, matplotlib and seaborn are expanding the ability to use Python for machine learning and visualizations. Python also tends to be easier to learn and understand than R. The flexibility of Python as a general programming language also works greatly in its favor as a one-stop language for handling all parts of the data analysis workflow. As noted above, Python is much more tuned to general processing tasks (as performed in data wrangling) than R.
+Ultimately, it can be useful to know at least a little bit about both languages, since they provide their own strengths to the data analysis table.
+What are some important concepts data analysts need to know?
+
+Although there is a general set of steps that an analysis project tends to follow, it is good for an analyst to be flexible to go back to earlier steps if they find that additional data wrangling is needed in order to obtain necessary information for analysis, or to produce more exploratory plots to understand an unexpected finding during mathematical modeling.
+How will I know if I'm ready for a path in Data Analysis?
+
+If you've completed the previous lessons in this Nanodegree Program, you’ve learned Python, a programming language that has an incredible number of data analysis libraries. You will learn how to use functions from Python libraries to data analysis work.
